@@ -10,7 +10,7 @@ Console.WriteLine("Please enter a High number : ");
 var highNum1 = Convert.ToInt32(Console.ReadLine());
 
 
-// While loop that is true if the first inpur is not negative AND  is it is lower then second input( highNum1)
+// While loop that is true if the first input is not negative AND it is lower then second input( highNum1)
 //test commit123
 while (lowNum1 > 0 && highNum1 > lowNum1)
 {
