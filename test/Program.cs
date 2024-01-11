@@ -11,6 +11,7 @@ var highNum1 = Convert.ToInt32(Console.ReadLine());
 
 
 // While loop that is true if the first inpur is not negative AND  is it is lower then second input( highNum1)
+//test commit
 while (lowNum1 > 0 && highNum1 > lowNum1)
 {
     Console.WriteLine("Please enter a low number : ");
