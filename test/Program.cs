@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+
 
 // Task 1 && 2 
 Console.WriteLine("Please enter a low number : ");
