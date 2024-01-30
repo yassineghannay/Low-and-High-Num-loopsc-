@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\Yassine\Downloads\lab0.cs" Link="lab0.cs" />
+  </ItemGroup>
+
 </Project>
